@@ -157,17 +157,11 @@ To update content:
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [Siddhesh padwal](LICENSE).
 
 ## 📞 Contact
 
@@ -176,10 +170,11 @@ This project is open source and available under the [MIT License](LICENSE).
 - Email: siddheshpadwal016@gmail.com
 - LinkedIn: [linkedin.com/in/siddhesh-padwal](https://www.linkedin.com/in/siddhesh-padwal-768b20373)
 - GitHub: [github.com/siddhesh-padwal](https://github.com/siddhesh-padwal)
-- Location: Mumbai, India
+- Location: Pune, India
 
 ---
 
 _Built with ❤️ using modern web technologies_
+
 
 
