@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my journey as a full-stack dev
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://protfolio-psi-azure.vercel.app/#projects) 
+[View Live Portfolio](https://protfolio-psi-azure.vercel.app) 
 
 ## 📋 Features
 
@@ -181,4 +181,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 _Built with ❤️ using modern web technologies_
+
 
